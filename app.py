@@ -44,9 +44,9 @@ class User(UserMixin):
 # define user credentials
 users = {
     '1': User('Team_01', '1325609313'),
-    '2': User(‘Team_02’, '2289067155'),
-    '3': User(‘Team_03’, '3428589256'),
-    '4': User(‘Team_04’, ‘0481345038’),
+    '2': User('Team_02’, '2289067155'),
+    '3': User('Team_03', '3428589256'),
+    '4': User('Team_04', ‘0481345038’),
     '5': User(‘Team_05’, ‘5902394953’),
     '6': User(‘Team_06’, ‘4942522877’),
     '7': User(‘Team_07’, ‘3466675718’),
